@@ -1,8 +1,33 @@
 <script>
-
+      //pagina sobre
 </script>
-  
+
+<a class="btn-voltar" href="/">Voltar</a>
+
+
   <style>
+
+img {
+    width: 150px;
+    height: auto;
+    margin: 10px;
+  }
+
+.btn-voltar {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+  }
+
+  .btn-voltar:hover {
+    background-color: #0056b3;
+  }
+
+
     body {
       font-family: Arial, sans-serif;
       background-color: #f7f7f7;
@@ -65,11 +90,14 @@
   
   <div id="cor">
     <h1>Aqui falaremos do motivo deste site</h1>
+    
     <p>Motivo por qual esse site existe é pra falar de cartões de credito.</p>
   
     <br>
   
     <h1>Cartão Azul Infinite</h1>
+    <img src="https://www.cartaoacredito.com/wp-content/uploads/2020/10/novo-cartao-azul-visa-infinite-itaucard.cleaned.jpeg" alt="Imagem">
+
     <p>
       O Cartão Azul Infinite é uma excelente escolha para quem busca acumular milhas e aproveitar benefícios exclusivos. Com uma política de pontos generosa, você acumula 3 pontos para cada dólar gasto em compras. Ideal para aqueles que desejam aproveitar vantagens em viagens, o cartão oferece acesso a salas VIP em aeroportos, seguro viagem gratuito e assistência global em emergências.
     </p>
@@ -88,6 +116,8 @@
     <div class="highlight">Recomendado para pessoas que gostam de viajar...</div>
   
     <h1>Cartão Amazon Prime</h1>
+    <img src="https://m.media-amazon.com/images/G/32/BR-Payments/2022/CBCC/SWP/CBCC_CardArt22.png" alt="Imagem">
+
     <p>O Cartão de Crédito Amazon Prime oferece uma série de benefícios exclusivos para quem é membro do Amazon Prime. Principais benefícios:</p>
   
     <h2>Benefícios:</h2>
@@ -105,6 +135,8 @@
     <div class="highlight">Uso total pra quem é usuario de Amazon Prime...</div>
   
     <h1>Cartão Pão de Açúcar Black</h1>
+    <img src="https://www.itau.com.br/media/dam/m/5d0614aeff0c4a3e/original/Cartao-itau-pao-de-acucar-master-card-black.png" alt="Imagem">
+
     <p>O Cartão Pão de Açúcar Black é uma excelente opção para quem deseja maximizar os benefícios de suas compras, especialmente em supermercados. Com ele, você acumula até 5 pontos por dólar gasto, o que é bastante vantajoso para quem faz compras frequentes. Além disso, oferece cashback e milhas, tornando-o ideal para aqueles que querem aproveitar ao máximo suas compras diárias.</p>
   
     <h2>Benefícios principais:</h2>
